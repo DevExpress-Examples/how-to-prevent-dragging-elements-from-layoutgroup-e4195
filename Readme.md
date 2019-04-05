@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/LayoutCntMoveInGroup/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/LayoutCntMoveInGroup/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/LayoutCntMoveInGroup/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LayoutCntMoveInGroup/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/LayoutCntMoveInGroup/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/LayoutCntMoveInGroup/MainWindow.xaml.vb))
 * [MyLayoutControl.cs](./CS/LayoutCntMoveInGroup/MyLayoutControl.cs) (VB: [MyLayoutControlCustomizationController.vb](./VB/LayoutCntMoveInGroup/MyLayoutControlCustomizationController.vb))
 * [MyLayoutControlController.cs](./CS/LayoutCntMoveInGroup/MyLayoutControlController.cs) (VB: [MyLayoutControlController.vb](./VB/LayoutCntMoveInGroup/MyLayoutControlController.vb))
